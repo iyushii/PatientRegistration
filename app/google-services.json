@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726826650126",
+    "project_id": "patient-reg-63ad5",
+    "storage_bucket": "patient-reg-63ad5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726826650126:android:d0b385e962015e6c530a5f",
+        "android_client_info": {
+          "package_name": "com.ayushi.patientreg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl8fJCLpyM-Ly_F1Y_XmLwJrVhUc8oozo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
